@@ -15,7 +15,7 @@ A chat application built using Android Studio and Kotlin, featuring user authent
 - Backend: Firebase (Authentication & Realtime Database)
 
 ## 📖 Installation
-- Clone the repository:git clone https://github.com/your-repo-link.git
+- Clone the repository:git clone [https://github.com/MohannedAhmed67/Chatter.git](https://github.com/MohannedAhmed67/Chatter.git)
 cd android-chat-app
 
 - Open Android Studio and load the project.
