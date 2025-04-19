@@ -1,4 +1,4 @@
-📱 Android Chat App (Kotlin)
+## 📱 Android Chat App (Kotlin)
 A chat application built using Android Studio and Kotlin, featuring user authentication and real-time messaging via Firebase.
 🚀 Features
 - Sign Up – Create an account using your email.
@@ -8,13 +8,13 @@ A chat application built using Android Studio and Kotlin, featuring user authent
 - Chat in Rooms – Enter private chat rooms by selecting a user.
 - Real-Time Chat – Messages are synchronized using Firebase Realtime Database.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Programming Language: Kotlin
 - IDE: Android Studio
 - UI Components: RecyclerView
 - Backend: Firebase (Authentication & Realtime Database)
 
-📖 Installation
+## 📖 Installation
 - Clone the repository:git clone https://github.com/your-repo-link.git
 cd android-chat-app
 
@@ -22,5 +22,5 @@ cd android-chat-app
 - Configure Firebase following official documentation.
 - Build and run the application.
 
-🎥 Demo & More Details
+## 🎥 Demo & More Details
 Find detailed documentation in the PPT included in this repository.
