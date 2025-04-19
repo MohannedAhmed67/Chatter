@@ -1,19 +1,26 @@
-# Chatproject
-Android Studio Chat application using Kotlin
+📱 Android Chat App (Kotlin)
+A chat application built using Android Studio and Kotlin, featuring user authentication and real-time messaging via Firebase.
+🚀 Features
+- Sign Up – Create an account using your email.
+- Log In – Authenticate with Firebase Authentication.
+- Log Out – Securely log out via the menu button.
+- View Members – Displays all registered users using RecyclerView.
+- Chat in Rooms – Enter private chat rooms by selecting a user.
+- Real-Time Chat – Messages are synchronized using Firebase Realtime Database.
 
+🛠️ Tech Stack
+- Programming Language: Kotlin
+- IDE: Android Studio
+- UI Components: RecyclerView
+- Backend: Firebase (Authentication & Realtime Database)
 
-# Description 
-Using Basic components and RecyclerView<br>
-Login function using Firebase Authentication <br>
-Chatting function using Firebase realtimedatabase <br>
+📖 Installation
+- Clone the repository:git clone https://github.com/your-repo-link.git
+cd android-chat-app
 
+- Open Android Studio and load the project.
+- Configure Firebase following official documentation.
+- Build and run the application.
 
-# Function
-Sign up : make your account to use application. ID format is used e-mail format<br>
-Log in : using firebase Authentication<br>
-Log out: log out by clicking log out button in menu<br>
-Showing all members : showing all members in Firebase by using Rechclerview<br>
-Chatting in the room : after click member button, you can enter the room, and you can chat in chat room<br>
-Chat in realtime : using realtime database in Firebase
-
-## More Detail : ppt
+🎥 Demo & More Details
+Find detailed documentation in the PPT included in this repository.
